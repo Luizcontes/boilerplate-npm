@@ -4,6 +4,7 @@
 	"description": "A project created while studying NodeJs",
 	"keywords": ["freecodecamp", "backend", "nodejs", "student"],
 	"license": "Contes SA",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
